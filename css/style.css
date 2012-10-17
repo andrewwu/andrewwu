@@ -1,0 +1,51 @@
+body {
+  background-image: url('../images/noisy_grid.png');
+  font-size: 16px;
+}
+
+div.content {
+  padding-bottom: 15px;
+}
+
+ul.nav li a {
+  text-transform: lowercase;
+}
+
+.hero-unit {
+  background-color: #777777;
+  border-radius: 6px 6px 6px 6px;
+  color: #FFFFFF;
+  margin-bottom: 30px;
+  margin-top: 57px;
+  padding: 20px 60px 30px 40px;
+}
+
+.hero-unit h1 {
+  margin-bottom: 23px;
+  text-transform: lowercase;
+}
+
+div.page-header {
+  border-bottom: 1px solid #ACACAC;
+}
+
+div.page-header h2 {
+  text-transform: lowercase;
+}
+
+footer {
+  margin-top: 70px;
+}
+
+footer ul {
+  padding: 0;
+  margin-top: 3px;
+  margin-left: 0;
+}
+
+div.project img {
+  border-radius: 20px;
+  width: 105px;
+  float: left;
+  margin-right: 20px;
+}
