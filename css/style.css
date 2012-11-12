@@ -23,6 +23,7 @@ ul.nav li a {
 .hero-unit h1 {
   margin-bottom: 23px;
   text-transform: lowercase;
+  font-size: 40px;
 }
 
 div.page-header {
