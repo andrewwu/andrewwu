@@ -1,6 +1,7 @@
 body {
   background-image: url('../images/noisy_grid.png');
   font-size: 16px;
+  padding-top: 42px;
 }
 
 div.content {
@@ -44,9 +45,24 @@ footer ul {
   margin-left: 0;
 }
 
+div.project h3 {
+  margin: 0 0 3px;
+}
+
+div.project p {
+  margin-bottom: 5px;
+}
+
+div.project .desc {
+  margin-left: 125px;
+}
+
 div.project img {
   border-radius: 20px;
   width: 105px;
   float: left;
-  margin-right: 20px;
+}
+
+.well {
+  height: 105px;
 }
